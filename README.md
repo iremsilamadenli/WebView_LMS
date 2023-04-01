@@ -13,4 +13,4 @@ iOS cihazda çalıştırmak için Settings>General> VPN & Device Management>Deve
  
 
 #WKWEBVİEW
-// Local/Session storage!! 
+Local/Session storage will be added 
